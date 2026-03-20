@@ -12,7 +12,7 @@ This repository is for deployment assigment which requires testing the source co
  - **Test Framework:** Jest
  - **Translator:** Babel
  - **CI/CD:** GitHub Actions
- - **Coverall report:** Coveralls
+ - **Coverall report:** Coveralls 
 
 
 # ISSUES
