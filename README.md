@@ -16,6 +16,6 @@ This repository is for deployment assigment which requires testing the source co
 
 
 ## Issues discovered
-camelCase.js
-chunk.js
+camelCase.js <br>
+chunk.js <br>
 compact.js
