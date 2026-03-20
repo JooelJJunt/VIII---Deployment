@@ -1,0 +1,24 @@
+{
+  "name": "vii---deployment",
+  "version": "1.0.0",
+  "description": "This project is for testing and deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Jooel Junttila",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "babel-jest": "^30.3.0",
+    "jest": "^30.3.0"
+  },
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!@babel)"
+    ]
+  }
+}
