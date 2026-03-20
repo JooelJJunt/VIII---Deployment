@@ -18,4 +18,6 @@ This repository is for deployment assigment which requires testing the source co
 ## Issues discovered 
 camelCase.js <br>
 chunk.js <br>
-compact.js
+compact.js <br>
+divide.js <br>
+countBy.js
