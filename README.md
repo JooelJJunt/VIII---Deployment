@@ -15,7 +15,7 @@ This repository is for deployment assigment which requires testing the source co
  - **Coverall report:** Coveralls 
 
 
-# ISSUES
-camelCase.js
-chunk.js
+## Issues discovered
+camelCase.js <br>
+chunk.js <br>
 compact.js
