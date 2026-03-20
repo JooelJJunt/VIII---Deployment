@@ -16,10 +16,10 @@
     "babel-jest": "^30.3.0",
     "jest": "^30.3.0"
   },
-  "jest": {
+    "jest": {
     "collectCoverageFrom": [
-    "src/*.js",
-    "!src/.internal/**"],
+    "src/**/*.js",
+    "!src/.internal/**/*.js"],
     "transformIgnorePatterns":[ 
       "node_modules/(?!@babel)"
     ]
