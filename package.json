@@ -19,10 +19,6 @@
     "jest": {
     "transformIgnorePatterns":[ 
       "node_modules/(?!@babel)"
-    ],
-    "collectCoverageFrom": [
-    "src/*.js",
-    "!src/.internal/**"
-  ]
+    ]
   }
 }
