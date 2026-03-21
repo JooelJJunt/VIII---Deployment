@@ -6,7 +6,7 @@ at LAB University of Applied Sciences.
 This repository is for deployment assigment which requires testing the source code
 
 ## Testing coverall
-[![Coverage Status](https://coveralls.io/repos/github/JooelJJunt/VIII---Deployment/badge.svg)](https://coveralls.io/github/JooelJJunt/VIII---Deployment)
+[![Coverage Status](https://coveralls.io/repos/github/JooelJJunt/VIII---Deployment/badge.svg?branch=main)](https://coveralls.io/github/JooelJJunt/VIII---Deployment?branch=main)
 
 ## Used tools for testing
  - **Test Framework:** Jest
